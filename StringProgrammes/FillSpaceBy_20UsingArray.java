@@ -1,5 +1,5 @@
 package com.StringProgrammes;
-
+//Replace space by %20 in the given String
 public class FillSpaceBy_20UsingArray {
 
 	public String FillMethod(String str) {

@@ -1,5 +1,6 @@
 package com.StringProgrammes;
 
+//code to reverse each word of a given string
 public class Reverse_Each_Word_OF_String {
 	public String ReverseMethod(String str) {
 		char[] ch = str.toCharArray();
